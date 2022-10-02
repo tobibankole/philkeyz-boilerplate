@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Philkeyz Music Official" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Website coming shortly. in the meantime, check out my socials @philkeyz 🔥
         </p>
       </main>
 
